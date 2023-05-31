@@ -18,9 +18,7 @@
 
 - 💡 &nbsp;Interested in trying out new technology and learning new things.
 
-- 🔭 I’m currently working on a **Release Note Management System** project
-
-- 🌱 I’m currently learning **NodeJS, Express, JavaScript**
+- 🌱 I’m currently learning **React, NextJS**
 
 <hr/>
 
